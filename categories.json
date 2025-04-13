@@ -1,0 +1,124 @@
+{
+  "Arts & Culture": {
+    "Architecture & Design": [],
+    "Fashion": [],
+    "Film & Cinema": [],
+    "Literature & Books": [],
+    "Music": [],
+    "Performing Arts": ["Dance", "Theater", "Opera"],
+    "Visual Arts": ["Painting", "Photography", "Sculpture"],
+    "History & Heritage": [],
+    "Museums & Exhibits": []
+  },
+  "Business": {
+    "Economy": [],
+    "Entrepreneurship & Startups": [],
+    "Finance": ["Personal Finance", "Investments", "Stock Market & Trading"],
+    "International Business": [],
+    "Marketing & Advertising": [],
+    "Real Estate": ["Residential", "Commercial"],
+    "Retail & E-Commerce": [],
+    "Technology in Business": [],
+    "Workplace & Careers": ["Remote Work", "Job Search & Employment Tips"]
+  },
+  "Education": {
+    "Higher Education": [],
+    "K-12 Education": [],
+    "Online Learning": [],
+    "Study Tips & Tools": [],
+    "Educational Policy": [],
+    "Special Education": [],
+    "Extracurricular & Enrichment Programs": []
+  },
+  "Entertainment": {
+    "Celebrity News": [],
+    "Movies": ["Reviews", "Box Office", "Upcoming Releases"],
+    "Music": ["Artists", "Genres", "Albums & Singles"],
+    "Streaming Services": ["Netflix", "Hulu", "Disney+"],
+    "Television": ["Series", "Reality TV", "Talk Shows & Interviews"],
+    "Theater & Broadway": [],
+    "Award Shows": ["Oscars", "Grammys", "Emmys"],
+    "Video Content & Social Media": ["YouTube", "TikTok"]
+  },
+  "Gaming": {
+    "Console Gaming": ["PlayStation", "Xbox", "Nintendo"],
+    "PC Gaming": [],
+    "Mobile Gaming": [],
+    "Game Development": [],
+    "Esports": ["Competitive Gaming", "Events & Tournaments"],
+    "Game Reviews & Previews": [],
+    "Game Streaming": ["Twitch", "YouTube Gaming"],
+    "Game Genres": ["Action", "RPG", "Sports"]
+  },
+  "Lifestyle": {
+    "Beauty & Fashion": ["Skincare", "Makeup & Cosmetics", "Fashion Trends"],
+    "Food & Drink": ["Recipes", "Cooking Techniques", "Restaurant Reviews", "Wine & Spirits"],
+    "Health & Fitness": ["Exercise & Workouts", "Mental Health", "Nutrition & Diets", "Wellness & Self-Care"],
+    "Home & Garden": ["Home Improvement", "Interior Design", "Gardening & Landscaping"],
+    "Parenting": [],
+    "Personal Development & Self-Improvement": [],
+    "Pets & Animals": ["Pet Care", "Animal Health", "Pet Training"],
+    "Travel & Adventure": ["Destination Guides", "Travel Tips & Hacks", "Hotels & Resorts", "Cultural Travel"]
+  },
+  "News": {
+    "Breaking News": [],
+    "World News": [],
+    "Local & Regional News": [],
+    "Politics": ["Elections", "Policy & Governance"],
+    "Crime & Justice": [],
+    "Weather": [],
+    "Investigative Reporting": [],
+    "Science & Environment News": []
+  },
+  "Religion & Spirituality": {
+    "Faith & Society": [],
+    "Philosophy & Ethics": [],
+    "Spiritual Practices": ["Meditation", "Mindfulness", "Prayer"],
+    "World Religions": ["Christianity", "Islam", "Buddhism", "Hinduism", "Judaism", "Other Spiritual Traditions"]
+  },
+  "Science & Technology": {
+    "Artificial Intelligence & Robotics": [],
+    "Biotechnology": [],
+    "Climate Change & Environment": ["Renewable Energy", "Conservation"],
+    "Engineering": [],
+    "Gadgets & Tech Reviews": [],
+    "Health & Medicine": ["Medical Research", "Healthcare Innovations", "Mental Health Technology"],
+    "Space & Astronomy": [],
+    "Technology in Everyday Life": ["Internet of Things (IoT)", "Smart Homes", "Digital Privacy & Security"]
+  },
+  "Sports": {
+    "American Football": ["NFL", "College Football"],
+    "Baseball": ["MLB", "Minor League Baseball"],
+    "Basketball": ["NBA", "NCAA"],
+    "Combat Sports": ["UFC", "Boxing", "Wrestling"],
+    "Esports": [],
+    "Football (Soccer)": ["Major Leagues", "International Competitions"],
+    "Golf": ["PGA Tour", "LPGA Tour"],
+    "Hockey": ["NHL", "International Ice Hockey"],
+    "Motorsports": ["Formula 1", "NASCAR"],
+    "Olympics": ["Summer Olympics", "Winter Olympics"],
+    "Tennis": ["ATP Tour", "WTA Tour"]
+  },
+  "Travel & Leisure": {
+    "Adventure Travel": [],
+    "Cultural Travel": [],
+    "Cruises": [],
+    "Destinations": ["Beach Vacations", "Mountain Getaways", "City Breaks"],
+    "Family Travel": [],
+    "Hotel & Accommodation Reviews": [],
+    "Travel Tips & Hacks": [],
+    "Travel News": [],
+    "Flights & Airlines": [],
+    "Sustainable Travel": [],
+    "Solo Travel": []
+  },
+  "Animals": {
+    "Animal Behavior": [],
+    "Animal Health": [],
+    "Conservation & Endangered Species": [],
+    "Pets & Pet Care": [],
+    "Wildlife & Nature": ["Safari & Wildlife Tours", "Biodiversity & Ecosystems"],
+    "Animal Rights & Welfare": [],
+    "Zoology & Animal Science": []
+  }
+}
