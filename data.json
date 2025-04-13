@@ -1,0 +1,158 @@
+{
+    "category": "Sports",
+    "subcategory": "NBA",
+    "icon" : "src/path.svg",
+    "headline": "What's your fave NBA team?",
+    "options": [
+        {
+        "name": "Boston Celtics",
+        "abbreviation": "BOS",
+        "image": "https://loodibee.com/wp-content/uploads/nba-boston-celtics-logo-300x300.png"
+        },
+        {
+        "name": "Brooklyn Nets",
+        "abbreviation": "BKN",
+        "image": "https://loodibee.com/wp-content/uploads/nba-brooklyn-nets-logo-300x300.png"
+        },
+        {
+        "name": "New York Knicks",
+        "abbreviation": "NYK",
+        "image": "src/nba_nyk.png"
+        },
+        {
+        "name": "Philadelphia 76ers",
+        "abbreviation": "PHI",
+        "image": "src/nba_phi.png"
+        },
+        {
+        "name": "Toronto Raptors",
+        "abbreviation": "TOR",
+        "image": "src/nba_tor.png"
+        },
+        {
+        "name": "Chicago Bulls",
+        "abbreviation": "CHI",
+        "image": "src/nba_chi.png"
+        },
+        {
+        "name": "Cleveland Cavaliers",
+        "abbreviation": "CLE",
+        "image": "src/nba_cle.png"
+        },
+        {
+        "name": "Detroit Pistons",
+        "abbreviation": "DET",
+        "image": "src/nba_det.png"
+        },
+        {
+        "name": "Indiana Pacers",
+        "abbreviation": "IND",
+        "image": "src/nba_ind.png"
+        },
+        {
+        "name": "Milwaukee Bucks",
+        "abbreviation": "MIL",
+        "image": "src/nba_mil.png"
+        },
+        {
+        "name": "Atlanta Hawks",
+        "abbreviation": "ATL",
+        "image": "src/nba_atl.png"
+        },
+        {
+        "name": "Charlotte Hornets",
+        "abbreviation": "CHA",
+        "image": "src/nba_cha.png"
+        },
+        {
+        "name": "Miami Heat",
+        "abbreviation": "MIA",
+        "image": "src/nba_mia.png"
+        },
+        {
+        "name": "Orlando Magic",
+        "abbreviation": "ORL",
+        "image": "src/nba_orl.png"
+        },
+        {
+        "name": "Washington Wizards",
+        "abbreviation": "WAS",
+        "image": "src/nba_was.png"
+        },
+        {
+        "name": "Denver Nuggets",
+        "abbreviation": "DEN",
+        "image": "src/nba_den.png"
+        },
+        {
+        "name": "Minnesota Timberwolves",
+        "abbreviation": "MIN",
+        "image": "src/nba_min.png"
+        },
+        {
+        "name": "Oklahoma City Thunder",
+        "abbreviation": "OKC",
+        "image": "src/nba_okc.png"
+        },
+        {
+        "name": "Portland Trail Blazers",
+        "abbreviation": "POR",
+        "image": "src/nba_por.png"
+        },
+        {
+        "name": "Utah Jazz",
+        "abbreviation": "UTA",
+        "image": "src/nba_uta.png"
+        },
+        {
+        "name": "Golden State Warriors",
+        "abbreviation": "GSW",
+        "image": "src/nba_gsw.png"
+        },
+        {
+        "name": "Los Angeles Clippers",
+        "abbreviation": "LAC",
+        "image": "src/nba_lac.png"
+        },
+        {
+        "name": "Los Angeles Lakers",
+        "abbreviation": "LAL",
+        "image": "src/nba_lal.png"
+        },
+        {
+        "name": "Phoenix Suns",
+        "abbreviation": "PHX",
+        "image": "src/nba_phx.png"
+        },
+        {
+        "name": "Sacramento Kings",
+        "abbreviation": "SAC",
+        "image": "src/nba_sac.png"
+        },
+        {
+        "name": "Dallas Mavericks",
+        "abbreviation": "DAL",
+        "image": "src/nba_dal.png"
+        },
+        {
+        "name": "Houston Rockets",
+        "abbreviation": "HOU",
+        "image": "src/nba_hou.png"
+        },
+        {
+        "name": "Memphis Grizzlies",
+        "abbreviation": "MEM",
+        "image": "src/nba_mem.png"
+        },
+        {
+        "name": "New Orleans Pelicans",
+        "abbreviation": "NOP",
+        "image": "src/nba_nop.png"
+        },
+        {
+        "name": "San Antonio Spurs",
+        "abbreviation": "SAS",
+        "image": "src/nba_sas.png"
+        }
+    ]
+}
