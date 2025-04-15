@@ -1,0 +1,24 @@
+{
+	"categoryId": "64d0c4f9-28c7-4e2e-a900-e07b17547ce7",
+    "categoryDescription": "NBA",
+	"surveyId": "5ebbb90c-7b3b-4768-9664-f86c52697cb6",
+	"lastModifiedDate": "2025-04-13 14:33:00",
+	"status": "New",
+	"surveyDescription": "What's your fave NBA team?",
+	"cards": {
+		"cardId": "052c2f3f-4665-4480-8145-46d644d3045c",
+		"nextCardId": "a83b6400-d534-4f7f-b503-c7186ba81e53",
+		"options": [
+							{
+								"description": "Chicago Bulls",
+								"optionId": "587b7e61-7e0c-49a1-b846-09b2815d8e87",
+								"imageUrl" : "https://loodibee.com/wp-content/uploads/nba-chicago-bulls-logo-300x300.png"
+							},
+							{
+								"description": "San Antonio Spurs",
+								"optionId": "587b7e61-7e0c-49a1-b846-09b2815d8e87",
+								"imageUrl" : "https://loodibee.com/wp-content/uploads/nba-san-antonio-spurs-logo-300x300.png"
+							}
+				]
+	}		
+}
