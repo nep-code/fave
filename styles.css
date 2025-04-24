@@ -21,6 +21,40 @@ html, body {
     max-width: 1280px;
     margin: 0 auto;
 }
+/* MENU */
+#menu {
+    display: flex;
+    justify-content: center;
+    align-items: flex;
+    background-color: rgba(0,0,0,0.9);
+    width: 100%;
+    height: 56px;
+}
+
+#logo {
+    display: block;
+    width: 100px;
+    height: auto;
+    vertical-align: top;
+    margin:5px;
+}
+
+#menu .input-wrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px 0 30px;
+}
+#menu input {
+    padding:4px;
+    margin: 0 5px;
+    background-color: #0f0f0f;
+    border:none;
+}
+#menu i {
+    color: silver;
+    margin: 8px;
+}
 
 
 /* HEADLINE */
@@ -89,10 +123,12 @@ html, body {
     color: white;
 }
 @media screen and (orientation: portrait) {
+    #menu {
+        min-width: 320px;
+    }
     #container {
         min-width: 320px;
     }
-
     h1 {
         font-size: 1.5em;
     }
