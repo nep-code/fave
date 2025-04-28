@@ -23,6 +23,8 @@ html, body {
 }
 /* MENU */
 #menu {
+    top:0;
+    position: fixed;
     display: flex;
     justify-content: center;
     align-items: flex;
@@ -33,10 +35,12 @@ html, body {
 
 #logo {
     display: block;
-    width: 100px;
+    width: 160px;
     height: auto;
     vertical-align: top;
     margin:5px;
+    radial-gradient(ellipse farthest-corner at right bottom, #FEDB37 0%, #FDB931 8%, #9f7928 30%, #8A6E2F 40%, transparent 80%),
+                radial-gradient(ellipse farthest-corner at left top, #FFFFFF 0%, #FFFFAC 8%, #D1B464 25%, #5d4a1f 62.5%, #5d4a1f 100%);
 }
 
 #menu .input-wrapper {
@@ -61,7 +65,7 @@ html, body {
 #container #headline {
     font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
-    font-weight: bold;
+    font-weight: normal;
     color: white;
     text-align: center;
     margin:0.5em;
@@ -96,7 +100,6 @@ html, body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    
 }
 
 #content .card .desc {
@@ -104,12 +107,12 @@ html, body {
     bottom:0;
     width: 100%;
     font-family: 'Roboto', sans-serif;
-    font-size: 16px;
+    font-size: 1em;
     line-height: 100%;
     font-weight: normal;
     text-align: center;
     color: black;
-    background-color: rgba(255,255,255,0.5);
+    background-color: rgba(255,255,255,0.7);
     margin:0;
     padding:8px;
     box-sizing: border-box;
@@ -124,25 +127,29 @@ html, body {
 }
 @media screen and (orientation: portrait) {
     #menu {
-        min-width: 320px;
+        min-width: 300px;
     }
     #container {
-        min-width: 320px;
+        min-width: 300px;
     }
-    h1 {
-        font-size: 1.5em;
+    #container #headline {
+        font-size: 1em;
     }
     #content {
         width:80vw;
-        height:80vh;
+        height:60vh;
         flex-direction: column;
-        min-width: 310px;
+        min-width: 260px;
         max-height: none;
     }
+    
     #content .card {
-        width: 80%;
-        min-width: 300px;
+        width: 90%;
+        min-width: 240px;
         max-width: none;
+    }
+    #content .card .desc {
+        font-size: 0.8em;
     }
     #content .or {
         font-size: 1em;

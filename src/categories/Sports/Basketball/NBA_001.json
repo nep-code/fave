@@ -1,0 +1,158 @@
+{
+    "category": "Sports",
+    "subcategory": "NBA",
+    "icon" : "https://loodibee.com/wp-content/uploads/nba-logo-transparent-300x300.png",
+    "headline": "What's your fave NBA team?",
+    "options": [
+        {
+        "name": "Boston Celtics",
+        "abbreviation": "BOS",
+        "image": "https://loodibee.com/wp-content/uploads/nba-boston-celtics-logo-300x300.png"
+        },
+        {
+        "name": "Brooklyn Nets",
+        "abbreviation": "BKN",
+        "image": "https://loodibee.com/wp-content/uploads/nba-brooklyn-nets-logo-300x300.png"
+        },
+        {
+        "name": "New York Knicks",
+        "abbreviation": "NYK",
+        "image": "https://loodibee.com/wp-content/uploads/nba-new-york-knicks-logo-300x300.png"
+        },
+        {
+        "name": "Philadelphia 76ers",
+        "abbreviation": "PHI",
+        "image": "https://loodibee.com/wp-content/uploads/nba-philadelphia-76ers-logo-300x300.png"
+        },
+        {
+        "name": "Toronto Raptors",
+        "abbreviation": "TOR",
+        "image": "https://loodibee.com/wp-content/uploads/nba-toronto-raptors-logo-2020-300x300.png"
+        },
+        {
+        "name": "Chicago Bulls",
+        "abbreviation": "CHI",
+        "image": "https://loodibee.com/wp-content/uploads/nba-chicago-bulls-logo-300x300.png"
+        },
+        {
+        "name": "Cleveland Cavaliers",
+        "abbreviation": "CLE",
+        "image": "https://loodibee.com/wp-content/uploads/Clevelan-Cavaliers-logo-2022-300x300.png"
+        },
+        {
+        "name": "Detroit Pistons",
+        "abbreviation": "DET",
+        "image": "https://loodibee.com/wp-content/uploads/nba-detroit-pistons-logo-300x300.png"
+        },
+        {
+        "name": "Indiana Pacers",
+        "abbreviation": "IND",
+        "image": "https://loodibee.com/wp-content/uploads/nba-indiana-pacers-logo-300x300.png"
+        },
+        {
+        "name": "Milwaukee Bucks",
+        "abbreviation": "MIL",
+        "image": "https://loodibee.com/wp-content/uploads/nba-milwaukee-bucks-logo-300x300.png"
+        },
+        {
+        "name": "Atlanta Hawks",
+        "abbreviation": "ATL",
+        "image": "https://loodibee.com/wp-content/uploads/nba-atlanta-hawks-logo-300x300.png"
+        },
+        {
+        "name": "Charlotte Hornets",
+        "abbreviation": "CHA",
+        "image": "https://loodibee.com/wp-content/uploads/nba-charlotte-hornets-logo-300x300.png"
+        },
+        {
+        "name": "Miami Heat",
+        "abbreviation": "MIA",
+        "image": "https://loodibee.com/wp-content/uploads/nba-miami-heat-logo-300x300.png"
+        },
+        {
+        "name": "Orlando Magic",
+        "abbreviation": "ORL",
+        "image": "https://loodibee.com/wp-content/uploads/nba-orlando-magic-logo-300x300.png"
+        },
+        {
+        "name": "Washington Wizards",
+        "abbreviation": "WAS",
+        "image": "https://loodibee.com/wp-content/uploads/nba-washington-wizards-logo-300x300.png"
+        },
+        {
+        "name": "Denver Nuggets",
+        "abbreviation": "DEN",
+        "image": "https://loodibee.com/wp-content/uploads/nba-denver-nuggets-logo-2018-300x300.png"
+        },
+        {
+        "name": "Minnesota Timberwolves",
+        "abbreviation": "MIN",
+        "image": "https://loodibee.com/wp-content/uploads/nba-minnesota-timberwolves-logo-300x300.png"
+        },
+        {
+        "name": "Oklahoma City Thunder",
+        "abbreviation": "OKC",
+        "image": "https://loodibee.com/wp-content/uploads/nba-oklahoma-city-thunder-logo-300x300.png"
+        },
+        {
+        "name": "Portland Trail Blazers",
+        "abbreviation": "POR",
+        "image": "https://loodibee.com/wp-content/uploads/nba-portland-trail-blazers-logo-300x300.png"
+        },
+        {
+        "name": "Utah Jazz",
+        "abbreviation": "UTA",
+        "image": "https://loodibee.com/wp-content/uploads/utah-jazz-logo-2022-300x300.png"
+        },
+        {
+        "name": "Golden State Warriors",
+        "abbreviation": "GSW",
+        "image": "https://loodibee.com/wp-content/uploads/nba-golden-state-warriors-logo-2020-300x300.png"
+        },
+        {
+        "name": "Los Angeles Clippers",
+        "abbreviation": "LAC",
+        "image": "https://loodibee.com/wp-content/uploads/NBA-LA-Clippers-logo-2024-300x300.png"
+        },
+        {
+        "name": "Los Angeles Lakers",
+        "abbreviation": "LAL",
+        "image": "https://loodibee.com/wp-content/uploads/nba-los-angeles-lakers-logo-300x300.png"
+        },
+        {
+        "name": "Phoenix Suns",
+        "abbreviation": "PHX",
+        "image": "https://loodibee.com/wp-content/uploads/nba-phoenix-suns-logo-300x300.png"
+        },
+        {
+        "name": "Sacramento Kings",
+        "abbreviation": "SAC",
+        "image": "https://loodibee.com/wp-content/uploads/nba-sacramento-kings-logo-300x300.png"
+        },
+        {
+        "name": "Dallas Mavericks",
+        "abbreviation": "DAL",
+        "image": "https://loodibee.com/wp-content/uploads/nba-dallas-mavericks-logo-300x300.png"
+        },
+        {
+        "name": "Houston Rockets",
+        "abbreviation": "HOU",
+        "image": "https://loodibee.com/wp-content/uploads/nba-houston-rockets-logo-2020-300x300.png"
+        },
+        {
+        "name": "Memphis Grizzlies",
+        "abbreviation": "MEM",
+        "image": "https://loodibee.com/wp-content/uploads/nba-memphis-grizzlies-logo-300x300.png"
+        },
+        {
+        "name": "New Orleans Pelicans",
+        "abbreviation": "NOP",
+        "image": "https://loodibee.com/wp-content/uploads/nba-new-orleans-pelicans-logo-300x300.png"
+        },
+        {
+        "name": "San Antonio Spurs",
+        "abbreviation": "SAS",
+        "image": "https://loodibee.com/wp-content/uploads/nba-san-antonio-spurs-logo-300x300.png"
+        }
+    ]
+}
