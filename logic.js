@@ -79,7 +79,7 @@ SWAP_CARD = (id) => {
         desc    = card.querySelector(".desc"),
         or    = content.querySelector(".or")
 
-    console.log(array.length, array);
+    /* console.log(array.length, array); */
     if(array.length === 0) {
         card.style.display = "none";
         or.style.display = "none";
