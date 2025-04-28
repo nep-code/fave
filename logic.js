@@ -76,18 +76,18 @@ SWAP_CARD = (id) => {
         desc    = card.querySelector(".desc"),
         or    = content.querySelector(".or")
 
-    /* console.log(array.length, array); */
     if(array.length === 0) {
-        card.style.display = "none";
-        or.style.display = "none";
+        cards.style.pointerEvents = "none";
+        card.style.visibility = "hidden";
+        or.style.visibility = "hidden";
         cards.style.cursor = "auto";
-        cards.removeEventListener("click");
+        gsap.to([card, or], {duration:0.5, width:0, height:0, ease:"power1.inOut"});
     } else {   
         card.style.backgroundImage = `url(${array[0].image})`;
         desc.innerHTML = array[0].name;
         array.shift();
         gsap.fromTo(card, {skewY:-6},{duration:0.5, delay:0.1, scale:1, rotateY:0, skewY:0, z:z0, ease:"power1.inOut"});
-        PRELOADIMAGE(array[0].image);
+        if(array.length >= 1) PRELOADIMAGE(array[0].image);
     }
 },
 
