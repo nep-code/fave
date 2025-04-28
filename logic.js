@@ -9,8 +9,9 @@ var container	= document.getElementById("container"),
     count       = 2,
 
 INIT = (data) => {
+    alert("1");
     ADD_HEADLINE(data.headline);
-
+    alert("2");
     array = SHUFFLE(data.options);
 
     for (let i=0; i < count; i++) {
@@ -18,8 +19,9 @@ INIT = (data) => {
         array.shift();
         if (i !== count - 1) ADD_OR();
     }
-
+    alert("3");
     ANIMATE();
+    alert("4");
 },
 
 ADD_HEADLINE = (data) => {
@@ -65,7 +67,6 @@ ADD_CARD = (num,img,txt) => {
     });
 
     content.append(card);
-
 },
 
 PRELOADIMAGE = (src) => {
