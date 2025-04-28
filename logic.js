@@ -9,9 +9,7 @@ var container	= document.getElementById("container"),
     count       = 2,
 
 INIT = (data) => {
-    alert("1");
     ADD_HEADLINE(data.headline);
-    alert("2");
     array = SHUFFLE(data.options);
 
     for (let i=0; i < count; i++) {
@@ -19,9 +17,7 @@ INIT = (data) => {
         array.shift();
         if (i !== count - 1) ADD_OR();
     }
-    alert("3");
     ANIMATE();
-    alert("4");
 },
 
 ADD_HEADLINE = (data) => {
@@ -115,7 +111,7 @@ ANIMATE = () => {
     window.duration = tl.totalDuration();
 };
 
-fetch('src/categories/sports/basketball/NBA_001.json')
+fetch('src/categories/Sports/Basketball/NBA_001.json')
 .then(response => {
     if (!response.ok) throw new Error('Network Response Error');
     return response.json();
